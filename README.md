@@ -1,8 +1,8 @@
 <h1 align="center">Hey there! I'm Tedi Qafko 👋 </h1>
 <h3 align="center">🚀 Electrical Engineering | Computer Science | Robotics | FPGA | PCB Design  🚀</h3>
-<div>
+<!-- <div>
 <img width = "35%" align="right" alt="PIC" height="300px" src="https://www.kindpng.com/picc/m/262-2620644_transparent-computer-work-clipart-employee-clipart-hd-png.png" />
-<div align="left"> 
+<div align="left">  -->
   <h3> 👨🏻‍💻 About Me </h3>
 
   - 🤔 &nbsp; Exploring new technologies using FPGAs, control theories, and mechanics
