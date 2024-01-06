@@ -5,7 +5,7 @@
 <div align="left">  -->
   <h3> 👨🏻‍💻 About Me </h3>
 
-  - 🤔 &nbsp; Exploring new technologies using FPGAs, control theories, and mechanics
+  - 🤔 &nbsp; Exploring topics FPGAs, control theories, and mechanics.
   - 🎓 &nbsp; Wentworth Institute of Technology.
   - 💼 &nbsp; I’m currently working on underwater robots, satellites, and drones.
   - 🌱 &nbsp; Learning more about AI, Machine learning, and Modeling Dynamics Systems.
